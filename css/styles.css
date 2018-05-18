@@ -1,0 +1,50 @@
+.header-text {
+  font-family: 'Raleway', sans-serif;
+  color: rgb(62, 51, 114);
+  font-size: 3vw;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.header-tag {
+  font-family: 'Raleway', sans-serif;
+  color: rgb(62, 51, 114);
+}
+
+.header-logo {
+   border-radius: 50%;
+   margin-top: 10px;
+}
+
+.header-line {
+	 height: 2px;
+	 box-shadow: 0 7px 7px -7px #3c868b inset;
+  }
+
+.featured-header {
+  margin-top: 5px;
+}
+
+.featured-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.featured-header-text {
+   font-family: 'Raleway', sans-serif;
+   color: rgb(62, 51, 114);
+}
+
+.featured-text {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2vw;
+}
+
+
+
+
+
+

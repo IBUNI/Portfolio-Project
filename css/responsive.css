@@ -1,0 +1,25 @@
+@media screen and (max-width: 745px) {
+   .centered {
+      text-align:center;
+    }
+   .header-text {
+      text-align: center;
+      font-size: 2vw;
+   }
+   p.header-tag {
+      text-align: center;
+   }
+   .featured-item-header {
+      font-size: 5vw;
+      text-align: center;
+   }
+   .featured-box {
+      align-items: center;
+      justify-content: center;
+   }
+   .featured-item-header {
+      text-align: center;
+      font-size: 3vw;
+   }
+}
+
