@@ -12,13 +12,13 @@
 }
 
 .header-logo {
-   border-radius: 50%;
-   margin-top: 10px;
+  border-radius: 50%;
+  margin-top: 10px;
 }
 
 .header-line {
-	 height: 2px;
-	 box-shadow: 0 7px 7px -7px #3c868b inset;
+	height: 2px;
+	box-shadow: 0 7px 7px -7px #3c868b inset;
   }
 
 .featured-header {
@@ -33,8 +33,8 @@
 }
 
 .featured-header-text {
-   font-family: 'Raleway', sans-serif;
-   color: rgb(62, 51, 114);
+  font-family: 'Raleway', sans-serif;
+  color: rgb(62, 51, 114);
 }
 
 .featured-text {
