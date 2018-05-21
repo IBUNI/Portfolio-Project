@@ -5,6 +5,9 @@
   margin-top: 10px;
   margin-bottom: 0;
 }
+.header {
+  background-color: aqua;
+}
 
 .header-tag {
   font-family: 'Raleway', sans-serif;
